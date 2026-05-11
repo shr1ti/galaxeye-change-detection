@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode Settings
+.vscode/
+
+# Large model files (optional)
+# *.pth

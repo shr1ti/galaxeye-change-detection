@@ -50,7 +50,7 @@ jupyter
 ## Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/shr1ti/galaxeye-change-detection.git>
 
 cd galaxeye-change-detection
 ```

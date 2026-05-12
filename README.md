@@ -161,13 +161,10 @@ Download trained model weights here:
 
 https://drive.google.com/file/d/1CZWvWJ5f4DegFWlFh-8FdSbT3h9Lni8j/view?usp=sharing
 
-Example file:
 
-```text
-best_model.pth
 ```
 
----
+
 
 # Results
 

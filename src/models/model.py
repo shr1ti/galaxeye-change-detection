@@ -1,3 +1,4 @@
+
 import segmentation_models_pytorch as smp
 
 
@@ -5,7 +6,7 @@ def build_model():
 
     model = smp.Unet(
 
-        encoder_name="efficientnet-b3",
+        encoder_name="resnet34",
 
         encoder_weights="imagenet",
 
@@ -13,9 +14,8 @@ def build_model():
 
         classes=1,
 
-        activation=None,
+        activation=None
 
-        decoder_attention_type="scse"
     )
 
     return model

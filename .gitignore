@@ -18,5 +18,6 @@ Thumbs.db
 # VSCode Settings
 .vscode/
 
-# Large model files (optional)
-# *.pth
+# Large model files 
+*.pth
+*.zip

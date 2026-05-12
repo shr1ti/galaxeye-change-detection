@@ -162,8 +162,6 @@ Download trained model weights here:
 https://drive.google.com/file/d/1CZWvWJ5f4DegFWlFh-8FdSbT3h9Lni8j/view?usp=sharing
 
 
-```
-
 ---
 
 # Results
@@ -178,6 +176,8 @@ https://drive.google.com/file/d/1CZWvWJ5f4DegFWlFh-8FdSbT3h9Lni8j/view?usp=shari
 | IoU | 0.2485 |
 
 ---
+
+
 
 ## Test Results
 
